@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584601758284.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CEF54570",
+    "lastKnownWriteTime" : 1584603127,
+    "last_content_update" : 1584604881025,
+    "path" : "C:/iot/Work/RWork/csv_test.R",
+    "project_path" : "csv_test.R",
+    "properties" : {
+        "cursorPosition" : "40,5",
+        "scrollLine" : "11",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

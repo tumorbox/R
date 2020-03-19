@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584583540300.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "663399733",
+    "id" : "F33C9974",
+    "lastKnownWriteTime" : 1584591006,
+    "last_content_update" : 1584591006157,
+    "path" : "C:/iot/Work/RWork/vector.R",
+    "project_path" : "vector.R",
+    "properties" : {
+        "cursorPosition" : "66,0",
+        "scrollLine" : "40",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
